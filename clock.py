@@ -12,7 +12,7 @@ def times():
 root = CTk()
 root.geometry("630x230")
 root.title("Digital Clock")
-
+root.resizable('false','false')
 
 
 font1= ('Arial', 53, 'bold')
